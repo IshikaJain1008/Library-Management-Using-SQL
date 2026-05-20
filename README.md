@@ -1,5 +1,6 @@
-## 📚 Library Management System | SQL Data Analytics Project 
-🚀 Project Overview
+# 📚 **Library Management System | SQL Data Analytics Project**
+
+**🚀 Project Overview**
 This project is a complete Library Management System built using MySQL with a strong focus on data analysis, database design, and business problem solving.
 
 The project simulates the real-world operations of a library including:
@@ -76,6 +77,7 @@ The project includes a complete ER Diagram showing:
 * Multi-table Joins
 
 **📊 Business Problems Solved**
+
 The project contains 20 SQL business questions/tasks designed to simulate real-world library operations and reporting requirements.
 
 ✅ Task 1: Add New Book Records
