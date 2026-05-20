@@ -1,4 +1,4 @@
-# 📚 Library Management System | SQL Data Analytics Project 
+## 📚 Library Management System | SQL Data Analytics Project 
 🚀 Project Overview
 This project is a complete Library Management System built using MySQL with a strong focus on data analysis, database design, and business problem solving.
 
@@ -17,11 +17,17 @@ A complete SQL project simulating a real-world library management system — cov
 # 🏗️ Database Architecture
 
 Six relational tables connected through foreign key constraints:
+
 **branch** — Library branch details, manager info, and contact number
+
 **employee** — Staff records with position, salary, and branch assignment
+
 **books** — Book catalogue with category, rental price, and availability status
+
 **members** — Registered member profiles and registration dates
+
 **issued_status** — Every book issuance record: who issued it, when, and by which employee
+
 **return_status**  — Return records with book condition tracking
 
 **📌 ER Diagram**
@@ -45,26 +51,29 @@ The project includes a complete ER Diagram showing:
 **🧠 Key SQL Concepts Demonstrated**
 
 🔹 Database Design
-Table Creation
-Foreign Key Relationships
-Normalized Schema Design
+* Table Creation
+* Foreign Key Relationships
+* Normalized Schema Design
+
 🔹 Data Manipulation
-INSERT
-UPDATE
-DELETE
+* INSERT
+* UPDATE
+* DELETE
+
 🔹 Data Analysis
-GROUP BY
-HAVING
-Aggregate Functions
-Revenue Analysis
-Overdue Tracking
+* GROUP BY
+* HAVING
+* Aggregate Functions
+* Revenue Analysis
+* Overdue Tracking
+
 🔹 Advanced SQL
-Stored Procedures
-CTAS (Create Table As Select)
-Subqueries
-Date Functions
-Conditional Logic
-Multi-table Joins
+* Stored Procedures
+* CTAS (Create Table As Select)
+* Subqueries
+* Date Functions
+* Conditional Logic
+* Multi-table Joins
 
 **📊 Business Problems Solved**
 The project contains 20 SQL business questions/tasks designed to simulate real-world library operations and reporting requirements.
@@ -122,31 +131,43 @@ Identified books currently issued but not returned.
 Identified members with overdue books beyond the allowed return period.
 
 Output Included:
-Member ID
-Member Name
-Book Title
-Issue Date
-Overdue Days
+
+* Member ID
+
+* Member Name
+  
+* Book Title
+  
+* Issue Date
+  
+* Overdue Days
+
+
 ✅ Task 14: Automate Return Management Using Stored Procedure
 
 Built a stored procedure to:
 
-Insert return records
-Update book availability automatically
-Display return confirmation messages
+* Insert return records
+  
+* Update book availability automatically
+  
+* Display return confirmation messages
 
 
+Procedure Name: add_return_records()
 
 
-Procedure Name:
-add_return_records()
 ✅ Task 15: Branch Performance Analytics
 
 Generated branch-level business reports showing:
 
-Total books issued
-Total books returned
-Total rental revenue
+* Total books issued
+  
+* Total books returned
+  
+* Total rental revenue
+
+  
 ✅ Task 16: Create Active Members Table
 
 Created a table containing members active within the last 12 months.
@@ -164,25 +185,28 @@ Detected members associated with damaged book returns multiple times.
 Developed a stored procedure to automate the book issuance process.
 
 Features:
-Checks book availability
-Issues book only if available
-Updates status automatically
-Returns custom success/error messages
+* Checks book availability
+  
+* Issues book only if available
+  
+* Updates status automatically
+  
+* Returns custom success/error messages
 
 
 
+Procedure Name: issue_book()
 
-Procedure Name:
-issue_book()
+
 ✅ Task 20: Overdue Fine Calculation System
 
 Built a CTAS analytical report to:
 
-Identify overdue members
-Count overdue books
-Calculate total fines dynamically
-Fine Logic:
-$0.50 per overdue day
+* Identify overdue members
+* Count overdue books
+* Calculate total fines dynamically
+* Fine Logic: *$0.50 per overdue day*
+
 
 **📈 Analytical Insights Generated 💡**
 
@@ -220,10 +244,15 @@ This project helps answer important business questions such as:
 Aspiring Data Analyst passionate about:
 
 🌟SQL
+
 🌟Data Analytics
+
 🌟Power BI
+
 🌟Python
+
 🌟Business Intelligence
+
 
 **⭐ If You Found This Project Useful**
 
