@@ -1,6 +1,7 @@
 # 📚 **Library Management System | SQL Data Analytics Project**
 
 **🚀 Project Overview**
+
 This project is a complete Library Management System built using MySQL with a strong focus on data analysis, database design, and business problem solving.
 
 The project simulates the real-world operations of a library including:
@@ -211,6 +212,7 @@ Built a CTAS analytical report to:
 
 
 # 📈 Analytical Insights Generated 💡
+
 
 This project helps answer important business questions such as:
 
