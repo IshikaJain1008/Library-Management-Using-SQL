@@ -229,7 +229,8 @@ This project helps answer important business questions such as:
 🔍How much fine revenue can overdue books generate?
 
 
-**🎯 Skills Demonstrated**
+# 🎯 Skills Demonstrated
+
 
 * SQL Query Optimization
 
