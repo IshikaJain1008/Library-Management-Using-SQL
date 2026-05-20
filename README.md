@@ -217,10 +217,15 @@ Built a CTAS analytical report to:
 This project helps answer important business questions such as:
 
 🔍Which branch generates the highest rental revenue?
+
 🔍Which members frequently delay returns?
+
 🔍Which employees handle the most transactions?
+
 🔍Which books/categories are most rented?
+
 🔍Which members repeatedly damage books?
+
 🔍How much fine revenue can overdue books generate?
 
 
