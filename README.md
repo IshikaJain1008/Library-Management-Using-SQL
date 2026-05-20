@@ -31,7 +31,7 @@ Six relational tables connected through foreign key constraints:
 
 **return_status**  — Return records with book condition tracking
 
-**📌 ER Diagram**
+# 📌 ER Diagram
 
 The project includes a complete ER Diagram showing:
 
@@ -40,7 +40,7 @@ The project includes a complete ER Diagram showing:
 * One-to-Many Relationships
 * Library Workflow Connections
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
 * Database — MySQL 8.x
 
@@ -49,7 +49,7 @@ The project includes a complete ER Diagram showing:
 * Language — SQL (DDL + DML + Stored Procedures)
 
 
-**🧠 Key SQL Concepts Demonstrated**
+# 🧠 Key SQL Concepts Demonstrated
 
 🔹 Database Design
 * Table Creation
@@ -76,7 +76,7 @@ The project includes a complete ER Diagram showing:
 * Conditional Logic
 * Multi-table Joins
 
-**📊 Business Problems Solved**
+# 📊 Business Problems Solved
 
 The project contains 20 SQL business questions/tasks designed to simulate real-world library operations and reporting requirements.
 
@@ -210,7 +210,7 @@ Built a CTAS analytical report to:
 * Fine Logic: *$0.50 per overdue day*
 
 
-**📈 Analytical Insights Generated 💡**
+# 📈 Analytical Insights Generated 💡
 
 This project helps answer important business questions such as:
 
