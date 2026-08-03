@@ -1,4 +1,4 @@
-# 📚 **Library Management System | SQL Data Analytics Project**
+# 📚 **Library Operations & Performance Analytics | SQL Data Analytics Project**
 
 **🚀 Project Overview**
 
